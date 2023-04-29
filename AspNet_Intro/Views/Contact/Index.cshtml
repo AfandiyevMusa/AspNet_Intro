@@ -1,0 +1,27 @@
+﻿@model int[]
+
+@for (int i = 0; i <= 10; i++)
+{
+    <h1>Musa Afandiyev</h1>;
+}
+
+@{
+    List<string> names = new List<string> { "Musa", "Murad", "Rasul", "Nicat" };
+}
+
+@for (int i = 0; i <= names.Count; i++)
+{
+    <h1>@names[i]</h1>;
+}
+
+@foreach (var item in names)
+{
+    <h1>@item</h1>
+}
+
+<ul>
+    @foreach (var item in Model)
+        {
+             <li>@item</li>
+     }
+</ul>

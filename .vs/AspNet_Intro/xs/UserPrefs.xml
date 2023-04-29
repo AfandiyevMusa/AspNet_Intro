@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{32C211AF-8D9D-4850-B224-A6DDAAF18B8E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AspNet__Intro PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspNet_Intro" expanded="True">
+            <Node name="AspNet_Intro" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ContactController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Contact" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
